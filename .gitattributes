@@ -1,0 +1,2 @@
+# Large PyTorch checkpoint file (use Git LFS when pushing via Git).
+*.pth filter=lfs diff=lfs merge=lfs -text
