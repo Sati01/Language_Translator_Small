@@ -1,4 +1,4 @@
-"""Inference model matching 17_02_translation_transformer_shared_embs.ipynb.
+"""Inference model matching translator_notebook(shared_embed_transfomer).ipynb.
 
 Architecture: character-level Transformer with shared character vocabulary
 and tied input/output embedding weights. Training is NOT required here.
@@ -87,7 +87,7 @@ class Translator(nn.Module):
 
 
 class TranslationEngine:
-    """Load an existing checkpoint and perform French -> English inference."""
+    """Load an existing checkpoint and perform Swedish -> English inference."""
 
     def __init__(
         self,
