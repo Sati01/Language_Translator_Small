@@ -10,7 +10,7 @@ app_file: app.py
 pinned: false
 ---
 
-# Swedssh → English | Character-level Transformer
+# Swedish → English | Character-level Transformer
 
 Language translator. This Space runs inference using
 the model trained in `translator_notebook(shared_embed_transfomer).ipynb`.
