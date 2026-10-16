@@ -13,7 +13,7 @@ pinned: false
 # Swedish → English | Character-level Transformer
 
 Language translator. This Space runs inference using
-the model trained in `17_02_translation_transformer_shared_embs.ipynb`.
+the model trained in `translator_notebook(shared_embed_transfomer).ipynb`.
 
 The model uses shared character embeddings, sinusoidal positional embeddings,
 PyTorch's encoder–decoder Transformer, and autoregressive greedy decoding.
