@@ -50,7 +50,7 @@ Open the local URL printed by Gradio (usually `http://127.0.0.1:7860`).
 2. Upload all the files in this folder **plus** your `.pth` and `.vocab` files
    using the Space's **Files → Add file → Upload files** interface.
 3. Commit the uploads and wait for the Space build to finish.
-4. Open the **App** tab and test `Viens manger`.
+4. Open the **App** tab and test `Jag förstår inte.`.
 
 This directory is already a Space repository: the YAML front matter at the
 top of this README tells Hugging Face to launch `app.py`. A separate GitHub
